@@ -119,7 +119,7 @@ def game_hash
 end
 
 def team_names(game_hash)
-  home[away]
+  1 = home[away]
 end
 
 
